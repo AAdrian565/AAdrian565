@@ -1,17 +1,3 @@
-<h1 align="left">Projects</h1>
-
-###
-
-<h2 align="left">Wayland Deskop</h2>
-
-###
-
-<div align="left">
-  <img height="200" src="https://github.com/AAdrian565/dotfiles/blob/main/desktop.png?raw=true"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
   <img width="12" />
